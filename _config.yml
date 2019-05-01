@@ -64,11 +64,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: '54c33ce6170d5851e95d'    #生成的clientID
-  clientSecret: '5dadee12f88b0bf9ab5b64df24a5b62746f7cef7'   #同上
-  repo: taojt.github.io    #仓库名称
-  owner: taojt    #github用户名
-  admin: taojt
+  clientID: '289db15464b42e64988a'    #生成的clientID
+  clientSecret: '2cff066943665a05be01f90d285af0f96c75827d'   #同上
+  repo: 'taojt.github.io'    #仓库名称
+  owner: 'taojt'    #github用户名
+  admin: 'taojt'
+  id: 'window.location.pathname', 
 
 # Netease settings
 netease_comment: false
