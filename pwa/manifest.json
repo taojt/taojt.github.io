@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "JT Blog",
+  "short_name": "JT Blog",
+  "description": "JT Blog, 江涛的博客，一个互联网爱好者.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
