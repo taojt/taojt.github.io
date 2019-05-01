@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-sitemap]
 
 
 
@@ -60,6 +60,15 @@ kramdown:
 
 # Disqus settings
 disqus_username: jt
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 'f2c84e7629bb1446c1a4'    #生成的clientID
+  clientSecret: '33cdc622139d68dc2273b818d849a348d7ac7ac8'   #同上
+  repo: qiubaiying.github.io    #仓库名称
+  owner: qiubaiying    #github用户名
+  admin: qiubaiying
 
 # Netease settings
 netease_comment: false
