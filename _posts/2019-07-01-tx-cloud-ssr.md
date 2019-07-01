@@ -20,25 +20,7 @@ tags:
 
 由于个人对谷歌搜索、谷歌学术、Youtube 等站点存在一定的访问需求，而由于大家都懂的原因，国内无法访问这些网站，腾讯云之前活动赠送的优惠券还没用完，于是基于腾讯云的服务器，尝试搭建SSR 科学上网服务，部分内容参考：[Google Cloud Platform免费申请&一键搭建SSR & BBR加速教程](https://www.wmsoho.com/google-cloud-platform-ssr-bbr-tutorial/)。
 
-<br>
-# 1. 腾讯云服务器的申请
-账号注册登陆后选择“云产品”——“计算”——“云服务器”
+## 1. 腾讯云服务器的申请
+账号注册登陆后，选择“云产品”——“计算”——“云服务器”，点击：“新建服务器实例”，选择如下所示：
+![腾讯云服务器实例创建](img/in-post/tx-cloud-1.png)
 
-
-公式测试：
-
-$$
-A = \{ \langle G \rangle \vert G \text{ is a connected undirected graph}\}
-$$
-
-行内公式测试： $X= \sum_{i=1}^N x_i*W$, 
-
-行内公式： 
-
-$s = \frac{w_k \times x_j}{ad /i}$
-
-hah 
-
-
-公式三：
-\beg
