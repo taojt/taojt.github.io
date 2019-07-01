@@ -1,22 +1,19 @@
 ---
 layout: post
-title: "腾讯云服务器搭建SSR 教程"
-subtitle: '一键科学上网'
+title: "Blog 示例"
+subtitle: '成功运行blog 测试'
 author: "JT"
 header-style: image
 header-img: "img/post-bg-dreamer.jpg"
 header-mask: 0.6
 mathjax: true
 tags:
-  - 科学上网
-  - 腾讯云
-  - SSR
-  - 技巧
-  - 工具
+  - 随笔
+  - 生活记录
 
 ---
 
-> 基于腾讯云服务器，搭建SSR 服务，实现电脑、平板、手机多端科学上网
+> 哈哈
 
 今天弄好了博客，真开心呢！
 
