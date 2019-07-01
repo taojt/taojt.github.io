@@ -34,7 +34,7 @@ tags:
 然后一直默认下一步，设置好账号密码即可。
 
 配置后的服务器实例如下图所示：
-![腾讯云服务器](../img/in-post/tx-cloud-3.png)
+![腾讯云服务器](img/in-post/tx-cloud-3.png)
 
 ## 2.部署SSR 服务
 *该部分内容参考：[Google Cloud Platform免费申请&一键搭建SSR & BBR加速教程](https://www.wmsoho.com/google-cloud-platform-ssr-bbr-tutorial/)*
