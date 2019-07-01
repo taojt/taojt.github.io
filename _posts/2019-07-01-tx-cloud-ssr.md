@@ -68,7 +68,7 @@ tags:
 ## 3.安装SSR 服务
 1. 下载安装脚本
 
-```bash
+  ```bash
   wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
   ```
 2. 为脚本加可执行权限
